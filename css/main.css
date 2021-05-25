@@ -362,3 +362,21 @@ li {
   border: 1px solid #ff903f;
   padding: 10px;
 }
+
+.contact-right button:hover {
+  margin: 10px;
+  color: #f55800;
+  font-weight: 900;
+  background-color: #fff5e1;
+  border: 1px solid #f55800;
+  padding: 10px;
+}
+
+.contact-right button:focus {
+  margin: 10px;
+  color: #5b5957;
+  font-weight: 900;
+  background-color: #f4f1f0;
+  border: 1px solid #f4f1f0;
+  padding: 10px;
+}
